@@ -71,3 +71,4 @@ def run_strategy(context, data):
         elif ((sma_20 < sma_50) & (context.portfolio.positions[stock].amount != 0)):
             print("{} Exiting {}".format(get_datetime(), stock))
             order_target_percent(stock, 0)
+            
