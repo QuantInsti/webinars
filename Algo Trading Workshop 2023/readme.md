@@ -18,6 +18,6 @@ Certainly, here's the information organized with separate headers for QuantInsti
 
 QuantInsti is a leading platform in the field of algorithmic trading and quantitative finance. We provide comprehensive educational resources and tools to help individuals and professionals thrive in the world of quantitative trading.
 
-### [Quantra Self-Paced Courses] (https://quantra.quantinsti.com/courses)
+### Quantra Self-Paced Courses 
 
-Quantra, powered by QuantInsti, offers a diverse range of self-paced courses designed to empower individuals with the knowledge and skills required for success in algorithmic trading and quantitative finance. Our courses cover various aspects, including algorithmic trading strategies, data analysis, and machine learning, allowing you to enhance your trading expertise at your own pace and convenience. Explore our course offerings to embark on a journey toward becoming a proficient algorithmic trader.
+[Quantra](https://quantra.quantinsti.com/courses), powered by QuantInsti, offers a diverse range of self-paced courses designed to empower individuals with the knowledge and skills required for success in algorithmic trading and quantitative finance. Our courses cover various aspects, including algorithmic trading strategies, data analysis, and machine learning, allowing you to enhance your trading expertise at your own pace and convenience. Explore our course offerings to embark on a journey toward becoming a proficient algorithmic trader.
