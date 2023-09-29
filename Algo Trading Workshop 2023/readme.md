@@ -1,5 +1,3 @@
-Certainly, let's break down the information into a more detailed and step-by-step format for your GitHub README.md file:
-
 ### Accessing Part 2 of the Algo Trading Workshop
 
 To access Part 2 of the Algo Trading workshop, you can follow these steps:
