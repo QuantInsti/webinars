@@ -16,7 +16,7 @@ Certainly, here's the information organized with separate headers for QuantInsti
 
 ### About QuantInsti
 
-QuantInsti is a leading platform in the field of algorithmic trading and quantitative finance. We provide comprehensive educational resources and tools to help individuals and professionals thrive in the world of quantitative trading.
+[QuantInsti](https://quantinsti.com) is a leading platform in the field of algorithmic trading and quantitative finance. We provide comprehensive educational resources and tools to help individuals and professionals thrive in the world of quantitative trading.
 
 ### Quantra Self-Paced Courses 
 
