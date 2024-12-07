@@ -46,6 +46,14 @@ With a presence in **190+ countries**, **60+ learning tracks**, and a **4.5/5 av
 
 ---
 
+## 📖 Explore Blogs
+
+Access a vast library of educational blogs and practical insights into the latest trends, strategies, and tools in trading. Whether you're exploring the basics of algorithmic trading or delving into advanced quantitative techniques, we've got you covered.  
+
+Start your journey: [QuantInsti Blogs](https://blog.quantinsti.com/tag/webinars/)
+
+---
+
 ## 📩 Contact Us
 
 **QuantInsti Quantitative Learning Pvt Ltd**  
