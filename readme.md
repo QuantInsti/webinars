@@ -1,5 +1,3 @@
-> ⚠ **Note:** This repository is an **old version**. The latest version is maintained at [QuantInsti GitHub](https://github.com/QuantInsti).
-
 # Webinars Repository by QuantInsti 🎥
 
 Welcome to the **Webinars Repository by QuantInsti**, your ultimate resource for learning about **algorithmic trading**, **quantitative finance**, and the latest advancements in financial markets. QuantInsti is a global leader in education and technology, offering tools and programs designed to empower traders, analysts, and enthusiasts to excel in their trading journeys.
